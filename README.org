@@ -1,6 +1,6 @@
 * Spring 2023 - Lab 01
 
-* Last name: Chowdhry
+* Last name: Chowdhury
 
 * First name: Tamanna
 
