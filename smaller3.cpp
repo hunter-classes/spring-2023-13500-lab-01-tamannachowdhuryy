@@ -1,4 +1,11 @@
-//Write a program smaller3.cpp that asks the user to input three integer numbers, and prints out the smallest of the three.
+/*
+Author: Tamanna Chowdhury
+Course: CSCI-135
+Instructor: Michael Zamansky
+Assignment: Lab1B
+Write a program smaller3.cpp that asks the user to input three integer numbers, and prints out the smallest of the three.
+*/
+
 
 #include <iostream>
 int main(){
