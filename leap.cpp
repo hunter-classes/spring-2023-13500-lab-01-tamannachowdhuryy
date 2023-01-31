@@ -1,3 +1,13 @@
+/*
+Author: Tamanna Chowdhury
+Course: CSCI-135
+Instructor: Michael Zamansky
+Assignment: Lab1C
+Asks the user to input an integer representing a year number that determines whether it is a leap year or common year.
+*/
+
+
+
 #include <iostream>
 int main(){
   int year;
