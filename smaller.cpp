@@ -1,3 +1,11 @@
+/*
+Author: Tamanna Chowdhury
+Course: CSCI-135
+Instructor: Michael Zamansky
+Assignment: Lab1A
+Write a program smaller.cpp that asks the user to input two integer numbers and prints out the smaller of the two.
+*/
+
 #include <iostream>
 #include <string> 
 
